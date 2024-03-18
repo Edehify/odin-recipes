@@ -1,4 +1,3 @@
-# odin-recipes
 <h3>Title:</h3>
 <h6>My T.O.P. Recipes Project</h6>
 
